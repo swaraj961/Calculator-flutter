@@ -1,4 +1,4 @@
-# CALCULATOR appui
+# CALCULATOR AppUI
 
 A new Flutter project.
 
