@@ -57,6 +57,7 @@ void doadd()
  
   Widget build(BuildContext context) {
     return new Scaffold(
+      resizeToAvoidBottomPadding: false,
       appBar: AppBar(
         title: new Text('Calculator'),
         centerTitle: true,
