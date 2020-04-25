@@ -1,16 +1,12 @@
-# CALCULATOR APP
+![star](https://img.shields.io/github/stars/swaraj961/Calculator-flutte) ![issues](https://img.shields.io/github/issues/swaraj961/-Ap) ![fork](https://img.shields.io/github/forks/swaraj961/Calculator-flutte) ![love](https://img.shields.io/badge/open%20%20source-%E2%9D%A4-red) ![flutter](https://img.shields.io/badge/Flutter-Framework-blue) ![dev](https://img.shields.io/badge/developed%20by%20-swaraj%20routray-green)
+# Calculator 
+![Icon](https://github.com/swaraj961/Calculator-flutter/blob/master/images/ic_launcher.png)
+- for simple calculation 
 
-A new Flutter project.
+## Download apk 
+-link will be added soon !
 
-## Getting Started
+# App UI 
+![Finished App](https://github.com/swaraj961/Calculator-flutter/blob/master/images/calc.gif)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
